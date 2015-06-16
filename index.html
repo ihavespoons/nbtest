@@ -29,22 +29,10 @@
         <title>NewBook</title>
 
         <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
-        <script type="text/javascript" charset="utf-8">
-
-        function onLoad() {
-            document.addEventListener("deviceready", onDeviceReady, false);
-        }
-
-        function onDeviceReady() {
-            window.location.replace="https://login.newbook.com.au/";
-
-            var ref = window.open('https://login.newbook.com.au','_self', 'location=no')
-        }
-
-        </script>
         
     </head>
-    <body>
+    <body onload="setWindow();">
   
     </body>
+    <script type="text/javascript" charset="uft-8" src="js/index.js"></script>
 </html>

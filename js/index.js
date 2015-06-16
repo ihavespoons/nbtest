@@ -16,3 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+ function setWindow() {
+           
+
+            var ref = window.open('https://login.newbook.com.au','_self', 'location=no');
+        }
