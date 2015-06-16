@@ -18,6 +18,6 @@
  */
  function setWindow() {
            
-
-            var ref = window.open('https://login.newbook.com.au','_self', 'location=no');
+ 			window.location="https://login.newbook.com.au";
+            
         }
