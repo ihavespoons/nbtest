@@ -92,6 +92,8 @@
     <gap:splash src="res/screen/android/screen-mdpi-portrait.png"       density="port-mdpi" />
     <gap:splash src="res/screen/android/screen-hdpi-portrait.png"       density="port-hdpi" />
     <gap:splash src="res/screen/android/screen-xhdpi-portrait.png"      density="port-xhdpi" />
+    <gap:splash src="res/screen/android/screen-xhdpi-portrait.png"      density="port-xxhdpi" />
+     <gap:splash src="res/screen/android/screen-xhdpi-portrait.png"      density="port-xxxhdpi" />
     <gap:splash src="res/screen/blackberry/screen-225.png"              gap:platform="blackberry" />
     <gap:splash src="res/screen/ios/screen-iphone-portrait.png"         gap:platform="ios"     width="320" height="480" />
     <gap:splash src="res/screen/ios/screen-iphone-portrait-2x.png"      gap:platform="ios"     width="640" height="960" />
