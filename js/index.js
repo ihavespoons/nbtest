@@ -18,6 +18,6 @@
  */
  function setWindow() {
            
- 			window.location="https://s6au.newbookpms.com.au";
+ 			window.location="https://login.newbook.com.au";
             
         }
